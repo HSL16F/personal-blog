@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Harrison L"
 description              : "Where anything on my mind, thoughts, comments, projects and anything else I'm interested in goes."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://hsl16f.github.io"
+baseurl                  : "/personal-blog"
+repository               : "HSL16F/personal-blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -106,9 +106,10 @@ analytics:
 author:
   name             : "Harrison L"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Competently incompetent Mathematics and Statistics Student @ University of Melbourne.
+  Passionate about data and AI, probability and statistics, economics, finance with a touch of sociology and anthropology and everything else in between"
   location         : "Melbourne"
-  email            :
+  email            : "Harrison.Langdon@outlook.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,7 +125,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/HSL16F"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -140,7 +141,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/HSL16F"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
