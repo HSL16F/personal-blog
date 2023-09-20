@@ -13,7 +13,7 @@ tags:
 ---
 
 Consider adding factor category, such as economic, financial, accounting etc
-Data from table below from following paper: (Taming the Factor Zoo: A Test of New Factors)[https://dachxiu.chicagobooth.edu/download/ZOO.pdf]
+Data from table below from following paper: [Taming the Factor Zoo: A Test of New Factors](https://dachxiu.chicagobooth.edu/download/ZOO.pdf)
 <div class="datatable-begin"></div>
 
 | ID | Description                                        | Year.pub | Category        | Avg.Ret. | Ann.SR | Reference                                   |
@@ -171,9 +171,8 @@ Data from table below from following paper: (Taming the Factor Zoo: A Test of Ne
 
 <div class="datatable-end"></div>
 
-More factors and data sets to be added
-If you have any more you wish to add, please email me
-Harrison.Langdon@outlook.com
+More factors and data sets to be added \
+If you have any more you wish to add, please email me @ **Harrison.Langdon@outlook.com**
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
