@@ -1,7 +1,7 @@
 ---
 title:  "Factor Zoo"
 share: true
-date:   2023-09-20 12:28:54 +1000
+date:   2023-09-20 18:35:54 +1000
 categories:
   - jekyll update
   - Factor Zoo
@@ -172,7 +172,3 @@ Data from table below from following paper: [Taming the Factor Zoo: A Test of Ne
 
 More factors and data sets to be added \
 If you have any more you wish to add, please email me @ **Harrison.Langdon@outlook.com**
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
