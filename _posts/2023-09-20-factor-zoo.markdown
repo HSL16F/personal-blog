@@ -1,24 +1,23 @@
 ---
 layout: post
 title:  "Factor Zoo"
+share: true
 date:   2023-09-20 12:28:54 +1000
-categories: jekyll update
+categories:
+  - jekyll update
+  - Factor Zoo
+  - Finance
+tags:
+    - Finance
+    - Factor Zoo
 ---
-<div class="datatable-begin"></div>
 
-Factor    | Description                           | Category | Source
-------- | ------------------------------------- | -------- | -----------
-Vhp     | [Intrinsic value-to-market](https://i.insider.com/602ee9ced3ad27001837f2ac?width=750&format=jpeg&auto=webp) |    pricing model   | xyz
-Vfp  | Analystsâ€™ forecasts-based intrinsic value-to-market | Fruit    | Test
-Excess Market Return | 1972 | [Jensen, Black, and Scholes (1972)](https://www.hbs.edu/faculty/Pages/item.aspx?num=3739)
-Kiwis   | A small, hairy-skinned sweet ...      | Fruit    | Golden
-
-<div class="datatable-end"></div>
+Consider adding factor category, such as economic, financial, accounting etc
 <div class="datatable-begin"></div>
 
 | ID | Description                     | Year.pub | Year.end | Avg.Ret. | Ann.SR | Reference                           |
 |----|---------------------------------|----------|----------|----------|--------|-------------------------------------|
-| 1  | Excess Market Return            | 1972     | 1965     | 0.64%    | 50.6%  | Jensen, Black, and Scholes (1972)   |
+| 1  | Excess Market Return            | 1972     | 1965     | 0.64%    | 50.6%  | [Jensen, Black, and Scholes (1972)](https://www.hbs.edu/faculty/Pages/item.aspx?num=3739)   |
 | 2  | Market Beta                     | 1973     | 1968     | -0.08%   | -5.4%  | Fama and MacBeth (1973)             |
 | 3  | Earnings to price               | 1977     | 1971     | 0.28%    | 29.7%  | Basu (1977)                         |
 | 4  | Dividend to price               | 1979     | 1977     | 0.01%    | 0.6%   | Litzenberger and Ramaswamy (1979)   |
@@ -237,25 +236,6 @@ Sba	The bid-ask spread
 Î²lev	The financial intermediary leverage beta
 Î²PS	The Pastor-Stambaugh liquidity beta
 Pin	Probability of information-based trading
-
-
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
